@@ -1,0 +1,202 @@
+[
+  {
+    "jobId": "13-2011",
+    "title": "Accountants and Auditors",
+    "aiExposureScore": 8,
+    "medianWage": 81680,
+    "employment": 1579800,
+    "growthRate": 5
+  },
+  {
+    "jobId": "15-2011",
+    "title": "Actuaries",
+    "aiExposureScore": 8,
+    "medianWage": 125770,
+    "employment": 33600,
+    "growthRate": 22
+  },
+  {
+    "jobId": "15-1252",
+    "title": "Software Developers",
+    "aiExposureScore": 9,
+    "medianWage": 131450,
+    "employment": 1895500,
+    "growthRate": 15
+  },
+  {
+    "jobId": "29-1141",
+    "title": "Registered Nurses",
+    "aiExposureScore": 4,
+    "medianWage": 93600,
+    "employment": 3391000,
+    "growthRate": 5
+  },
+  {
+    "jobId": "25-2021",
+    "title": "Elementary and Middle School Teachers",
+    "aiExposureScore": 6,
+    "medianWage": 62640,
+    "employment": 1728200,
+    "growthRate": -2
+  },
+  {
+    "jobId": "13-1111",
+    "title": "Management Analysts",
+    "aiExposureScore": 7,
+    "medianWage": 101190,
+    "employment": 1075100,
+    "growthRate": 9
+  },
+  {
+    "jobId": "15-1299",
+    "title": "Computer and Information Research Scientists",
+    "aiExposureScore": 9,
+    "medianWage": 140910,
+    "employment": 40300,
+    "growthRate": 20
+  },
+  {
+    "jobId": "13-1161",
+    "title": "Market Research Analysts",
+    "aiExposureScore": 9,
+    "medianWage": 76950,
+    "employment": 941700,
+    "growthRate": 7
+  },
+  {
+    "jobId": "27-3022",
+    "title": "Reporters and Journalists",
+    "aiExposureScore": 7,
+    "medianWage": 60280,
+    "employment": 49300,
+    "growthRate": -4
+  },
+  {
+    "jobId": "23-1011",
+    "title": "Lawyers",
+    "aiExposureScore": 8,
+    "medianWage": 151160,
+    "employment": 864800,
+    "growthRate": 4
+  },
+  {
+    "jobId": "15-1143",
+    "title": "Computer Network Architects",
+    "aiExposureScore": 8,
+    "medianWage": 130390,
+    "employment": 179200,
+    "growthRate": 12
+  },
+  {
+    "jobId": "13-1081",
+    "title": "Logisticians",
+    "aiExposureScore": 7,
+    "medianWage": 80880,
+    "employment": 241000,
+    "growthRate": 17
+  },
+  {
+    "jobId": "27-1024",
+    "title": "Graphic Designers",
+    "aiExposureScore": 9,
+    "medianWage": 61300,
+    "employment": 265900,
+    "growthRate": 2
+  },
+  {
+    "jobId": "15-1132",
+    "title": "Software Quality Assurance Analysts and Testers",
+    "aiExposureScore": 9,
+    "medianWage": 131450,
+    "employment": 1895500,
+    "growthRate": 15
+  },
+  {
+    "jobId": "13-1111-FIN",
+    "title": "Financial Analysts",
+    "aiExposureScore": 9,
+    "medianWage": 101910,
+    "employment": 429000,
+    "growthRate": 6
+  },
+  {
+    "jobId": "15-1121",
+    "title": "Computer Systems Analysts",
+    "aiExposureScore": 8,
+    "medianWage": 103790,
+    "employment": 521100,
+    "growthRate": 9
+  },
+  {
+    "jobId": "27-3043",
+    "title": "Technical Writers",
+    "aiExposureScore": 9,
+    "medianWage": 91670,
+    "employment": 56400,
+    "growthRate": 1
+  },
+  {
+    "jobId": "15-1131",
+    "title": "Computer Programmers",
+    "aiExposureScore": 9,
+    "medianWage": 98670,
+    "employment": 121200,
+    "growthRate": -6
+  },
+  {
+    "jobId": "13-1041",
+    "title": "Compliance Officers",
+    "aiExposureScore": 8,
+    "medianWage": 78420,
+    "employment": 418000,
+    "growthRate": 3
+  },
+  {
+    "jobId": "15-2051",
+    "title": "Data Scientists",
+    "aiExposureScore": 9,
+    "medianWage": 112590,
+    "employment": 245900,
+    "growthRate": 34
+  },
+  {
+    "jobId": "13-1151",
+    "title": "Training and Development Specialists",
+    "aiExposureScore": 7,
+    "medianWage": 65850,
+    "employment": 452300,
+    "growthRate": 11
+  },
+  {
+    "jobId": "27-1014",
+    "title": "Multimedia Artists and Animators",
+    "aiExposureScore": 9,
+    "medianWage": 99800,
+    "employment": 57100,
+    "growthRate": 2
+  },
+  {
+    "jobId": "15-1142",
+    "title": "Network and Computer Systems Administrators",
+    "aiExposureScore": 8,
+    "medianWage": 96800,
+    "employment": 331500,
+    "growthRate": -4
+  },
+  {
+    "jobId": "13-1023",
+    "title": "Purchasing Managers",
+    "aiExposureScore": 7,
+    "medianWage": 79830,
+    "employment": 605600,
+    "growthRate": 5
+  },
+  {
+    "jobId": "27-2011",
+    "title": "Actors",
+    "aiExposureScore": 7,
+    "medianWage": 48526,
+    "employment": 57000,
+    "growthRate": 0
+  }
+]
