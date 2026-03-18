@@ -95,7 +95,7 @@ export default function CareerCheckPage() {
       }
 
       const data = await res.json();
-      router.push(`/reports/${data.reportId}`);
+      router.push(`/reports/${selectedJobId}`);
     } catch (error) {
       console.error('Error generating report:', error);
       setReportError('An error occurred while generating the report');
@@ -112,6 +112,12 @@ export default function CareerCheckPage() {
           <h1 className="text-4xl font-bold text-gray-900">Career AI Impact Checker</h1>
           <p className="mt-3 text-lg text-gray-700">
             Explore how AI will impact your career. Select from 25+ real occupations with data from the US Bureau of Labor Statistics.
+          </p>
+          <p className="mt-2 text-base text-gray-600">
+            Get an AI-generated 10-year outlook for your job, plus 3 concrete career strategies and a personalized skill roadmap.
+          </p>
+          <p className="mt-3 inline-block bg-indigo-50 border border-indigo-200 text-indigo-700 text-sm font-medium px-4 py-2 rounded-full">
+            Full PDF report – planned price: $9.99 · Early MVP test, free for now
           </p>
         </div>
 
