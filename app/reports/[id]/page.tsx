@@ -1,4 +1,5 @@
 import { CareerReport } from '@/src/types/career-report';
+import { buildMockReport } from '@/lib/reportStore';
 
 async function getReport(id: string): Promise<CareerReport> {
   const res = await fetch(`http://localhost:3000/api/reports/${id}`, {
@@ -14,7 +15,7 @@ export default async function ReportPage({
   params: Promise<{ id: string }>;
 }) {
   const { id } = await params;
-  const report = await getReport(id);
+  const report = buildMockReport(id);
 
   return (
     <main className="max-w-2xl mx-auto py-10 px-4">
